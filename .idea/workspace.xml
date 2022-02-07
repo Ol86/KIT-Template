@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a40467fb-e7f9-496c-8cb1-cca7e0bb2394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/kit/informatik/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/kit/informatik/ui/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/kit/informatik/ui/commands/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/kit/informatik/ui/resources/ErrorMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/kit/informatik/ui/resources/Messages.java" afterDir="false" />
+    <list default="true" id="a40467fb-e7f9-496c-8cb1-cca7e0bb2394" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +38,9 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/edu/kit/informatik/ui/resources/ErrorMessages.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/edu/kit/informatik/ui/resources/Messages.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/edu/kit/informatik/Application.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/edu/kit/informatik/ui/resources/ErrorMessages.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/edu/kit/informatik/ui/resources/Messages.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/edu/kit/informatik/Application.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,6 +58,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\clara\Documents\Task\Abschlussaufgabe-1\edu\kit\informatik" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,8 +71,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644241051712</updated>
-      <workItem from="1644241082396" duration="5044000" />
+      <workItem from="1644241082396" duration="5710000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1644248945615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644248945615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
