@@ -1,2 +1,2 @@
-# Abschlussaufgabe-1
-This repopsitory represents the first of two different Tasks of my final exam at the KIT
+# KIT-Template
+This is a template for the Tasks of Programming of the KIT.
